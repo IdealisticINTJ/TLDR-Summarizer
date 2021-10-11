@@ -1,2 +1,2 @@
-# TL;DR? 
-Extractive Text Summarization using NLTK library in Python
+# TL;DR? 💡
+**Automatic Extractive Text Summarization using NLTK library implemented using Python by tokenizing the sentences, finding the weighted frequency of occurrence, and calculating sentence scores.**
