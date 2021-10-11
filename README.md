@@ -3,4 +3,3 @@
 
 - The top N sentences with the highest scores are extracted for summary generation with the help of Python NLTK library. 
 - To fetch the Wikipedia articles from the web, BeautifulSoup library is used. 
-- Or, input the text that needs to be summarized, and run the following line ```python summarizer.py``` on your promt/powershell.
