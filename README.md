@@ -1,3 +1,4 @@
+# TL;DR? 
 ### Automatic Extractive Text Summarization using NLTK and BeautifulSoup in Python
 
 This project showcases an advanced approach to automatic extractive text summarization. Leveraging NLTK (Natural Language Toolkit) in Python, we are tokenizing sentences, computing the weighted frequency of occurrence, and calculating sentence scores to generate concise and coherent summaries.
